@@ -1,3 +1,4 @@
+//Bank
 struct Bank {
     corpus: u64,         // Fixed supply of money
     min_duration: u64,   
